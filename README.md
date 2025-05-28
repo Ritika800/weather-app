@@ -30,8 +30,8 @@ WeatherJawn is a sleek, modern weather application that allows users to get real
 To run the project locally:
 
 # Clone the repository
-git clone https://github.com/your-username/weatherjawn.git
-cd weatherjawn
+* **git clone https://github.com/your-username/weatherjawn.git**
+* **cd weatherjawn**
 
 # Install dependencies
 npm install
