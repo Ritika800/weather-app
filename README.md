@@ -18,10 +18,10 @@ WeatherJawn is a sleek, modern weather application that allows users to get real
 
 
 # 🚀 Technologies Used
-React.js – Frontend JavaScript library
+* **React.js** – Frontend JavaScript library
 
-OpenWeatherMap API – For fetching real-time weather data
+* **OpenWeatherMap API** – For fetching real-time weather data
 
-CSS3 / Tailwind / Bootstrap – For styling and responsive layout
+* **CSS3 / Tailwind / Bootstrap** – For styling and responsive layout
 
-Netlify – For deployment
+* **Netlify** – For deployment
